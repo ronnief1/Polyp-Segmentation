@@ -1,0 +1,30 @@
+[2022-11-12 13:05:50,500] 
+0/10 * Epoch 0 (train): _fps=60.8610 | base/batch_time=0.1906 | base/data_time=0.0846 | base/lr=0.0010 | base/model_time=0.1060 | base/momentum=0.9000 | loss=0.5300
+0/10 * Epoch 0 (valid): _fps=16.1846 | base/batch_time=0.2742 | base/data_time=0.2453 | base/lr=0.0010 | base/model_time=0.0288 | base/momentum=0.9000 | loss=0.4458
+[2022-11-12 13:07:43,826] 
+1/10 * Epoch 1 (train): _fps=58.0513 | base/batch_time=0.1222 | base/data_time=0.0664 | base/lr=0.0010 | base/model_time=0.0557 | base/momentum=0.9000 | loss=0.5161
+1/10 * Epoch 1 (valid): _fps=24.3433 | base/batch_time=0.0499 | base/data_time=0.0202 | base/lr=0.0010 | base/model_time=0.0297 | base/momentum=0.9000 | loss=0.4442
+[2022-11-12 13:09:38,399] 
+2/10 * Epoch 2 (train): _fps=58.8493 | base/batch_time=0.1329 | base/data_time=0.0852 | base/lr=0.0010 | base/model_time=0.0477 | base/momentum=0.9000 | loss=0.5149
+2/10 * Epoch 2 (valid): _fps=25.5773 | base/batch_time=0.0475 | base/data_time=0.0206 | base/lr=0.0010 | base/model_time=0.0269 | base/momentum=0.9000 | loss=0.4360
+[2022-11-12 13:11:32,196] 
+3/10 * Epoch 3 (train): _fps=55.0591 | base/batch_time=0.1316 | base/data_time=0.0745 | base/lr=0.0010 | base/model_time=0.0570 | base/momentum=0.9000 | loss=0.5157
+3/10 * Epoch 3 (valid): _fps=25.9387 | base/batch_time=0.0469 | base/data_time=0.0199 | base/lr=0.0010 | base/model_time=0.0269 | base/momentum=0.9000 | loss=0.4354
+[2022-11-12 13:13:25,172] 
+4/10 * Epoch 4 (train): _fps=58.3160 | base/batch_time=0.1285 | base/data_time=0.0793 | base/lr=0.0010 | base/model_time=0.0491 | base/momentum=0.9000 | loss=0.5140
+4/10 * Epoch 4 (valid): _fps=26.3256 | base/batch_time=0.0469 | base/data_time=0.0190 | base/lr=0.0010 | base/model_time=0.0278 | base/momentum=0.9000 | loss=0.4339
+[2022-11-12 13:15:20,796] 
+5/10 * Epoch 5 (train): _fps=56.4629 | base/batch_time=0.1401 | base/data_time=0.0855 | base/lr=0.0010 | base/model_time=0.0545 | base/momentum=0.9000 | loss=0.5122
+5/10 * Epoch 5 (valid): _fps=26.7290 | base/batch_time=0.0477 | base/data_time=0.0209 | base/lr=0.0010 | base/model_time=0.0267 | base/momentum=0.9000 | loss=0.4310
+[2022-11-12 13:17:12,499] 
+6/10 * Epoch 6 (train): _fps=56.9369 | base/batch_time=0.1239 | base/data_time=0.0697 | base/lr=0.0010 | base/model_time=0.0541 | base/momentum=0.9000 | loss=0.5125
+6/10 * Epoch 6 (valid): _fps=26.6483 | base/batch_time=0.0460 | base/data_time=0.0194 | base/lr=0.0010 | base/model_time=0.0265 | base/momentum=0.9000 | loss=0.4302
+[2022-11-12 13:19:04,436] 
+7/10 * Epoch 7 (train): _fps=55.5339 | base/batch_time=0.1280 | base/data_time=0.0719 | base/lr=0.0010 | base/model_time=0.0560 | base/momentum=0.9000 | loss=0.5135
+7/10 * Epoch 7 (valid): _fps=26.6376 | base/batch_time=0.0458 | base/data_time=0.0177 | base/lr=0.0010 | base/model_time=0.0281 | base/momentum=0.9000 | loss=0.4307
+[2022-11-12 13:20:55,872] 
+8/10 * Epoch 8 (train): _fps=58.7143 | base/batch_time=0.1212 | base/data_time=0.0690 | base/lr=0.0010 | base/model_time=0.0519 | base/momentum=0.9000 | loss=0.5095
+8/10 * Epoch 8 (valid): _fps=27.3076 | base/batch_time=0.0447 | base/data_time=0.0198 | base/lr=0.0010 | base/model_time=0.0249 | base/momentum=0.9000 | loss=0.4293
+[2022-11-12 13:22:51,956] 
+9/10 * Epoch 9 (train): _fps=57.8230 | base/batch_time=0.1365 | base/data_time=0.0835 | base/lr=0.0010 | base/model_time=0.0529 | base/momentum=0.9000 | loss=0.5062
+9/10 * Epoch 9 (valid): _fps=24.1605 | base/batch_time=0.0547 | base/data_time=0.0222 | base/lr=0.0010 | base/model_time=0.0325 | base/momentum=0.9000 | loss=0.4259
