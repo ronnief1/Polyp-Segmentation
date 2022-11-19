@@ -1,0 +1,51 @@
+[2022-11-18 15:10:22,976] 
+0/20 * Epoch 0 (train): _fps=53.2017 | base/batch_time=0.1233 | base/data_time=0.0750 | base/lr=0.0010 | base/model_time=0.0482 | base/momentum=0.9000 | loss=0.5285
+0/20 * Epoch 0 (valid): _fps=28.6086 | base/batch_time=0.0505 | base/data_time=0.0228 | base/lr=0.0010 | base/model_time=0.0276 | base/momentum=0.9000 | loss=0.4417
+[2022-11-18 15:12:03,547] 
+1/20 * Epoch 1 (train): _fps=43.0220 | base/batch_time=0.1610 | base/data_time=0.0976 | base/lr=0.0010 | base/model_time=0.0633 | base/momentum=0.9000 | loss=0.5161
+1/20 * Epoch 1 (valid): _fps=27.0212 | base/batch_time=0.0472 | base/data_time=0.0226 | base/lr=0.0010 | base/model_time=0.0246 | base/momentum=0.9000 | loss=0.4335
+[2022-11-18 15:13:39,062] 
+2/20 * Epoch 2 (train): _fps=50.3407 | base/batch_time=0.1358 | base/data_time=0.0866 | base/lr=0.0010 | base/model_time=0.0491 | base/momentum=0.9000 | loss=0.5073
+2/20 * Epoch 2 (valid): _fps=27.4553 | base/batch_time=0.0459 | base/data_time=0.0216 | base/lr=0.0010 | base/model_time=0.0242 | base/momentum=0.9000 | loss=0.4263
+[2022-11-18 15:15:14,787] 
+3/20 * Epoch 3 (train): _fps=47.7537 | base/batch_time=0.1361 | base/data_time=0.0851 | base/lr=0.0010 | base/model_time=0.0509 | base/momentum=0.9000 | loss=0.5031
+3/20 * Epoch 3 (valid): _fps=27.8572 | base/batch_time=0.0460 | base/data_time=0.0216 | base/lr=0.0010 | base/model_time=0.0243 | base/momentum=0.9000 | loss=0.4237
+[2022-11-18 15:16:50,652] 
+4/20 * Epoch 4 (train): _fps=49.7270 | base/batch_time=0.1367 | base/data_time=0.0863 | base/lr=0.0010 | base/model_time=0.0504 | base/momentum=0.9000 | loss=0.4980
+4/20 * Epoch 4 (valid): _fps=27.1383 | base/batch_time=0.0460 | base/data_time=0.0211 | base/lr=0.0010 | base/model_time=0.0249 | base/momentum=0.9000 | loss=0.4210
+[2022-11-18 15:18:32,048] 
+5/20 * Epoch 5 (train): _fps=49.8585 | base/batch_time=0.1494 | base/data_time=0.0991 | base/lr=0.0010 | base/model_time=0.0503 | base/momentum=0.9000 | loss=0.4989
+5/20 * Epoch 5 (valid): _fps=20.1267 | base/batch_time=0.0655 | base/data_time=0.0280 | base/lr=0.0010 | base/model_time=0.0375 | base/momentum=0.9000 | loss=0.4201
+[2022-11-18 15:20:08,363] 
+6/20 * Epoch 6 (train): _fps=49.1581 | base/batch_time=0.1406 | base/data_time=0.0899 | base/lr=0.0010 | base/model_time=0.0507 | base/momentum=0.9000 | loss=0.4967
+6/20 * Epoch 6 (valid): _fps=28.4712 | base/batch_time=0.0444 | base/data_time=0.0213 | base/lr=0.0010 | base/model_time=0.0231 | base/momentum=0.9000 | loss=0.4182
+[2022-11-18 15:21:44,066] 
+7/20 * Epoch 7 (train): _fps=52.0318 | base/batch_time=0.1350 | base/data_time=0.0853 | base/lr=0.0010 | base/model_time=0.0495 | base/momentum=0.9000 | loss=0.4948
+7/20 * Epoch 7 (valid): _fps=26.4306 | base/batch_time=0.0458 | base/data_time=0.0213 | base/lr=0.0010 | base/model_time=0.0244 | base/momentum=0.9000 | loss=0.4166
+[2022-11-18 15:23:22,323] 
+8/20 * Epoch 8 (train): _fps=45.3333 | base/batch_time=0.1487 | base/data_time=0.0918 | base/lr=0.0010 | base/model_time=0.0568 | base/momentum=0.9000 | loss=0.4895
+8/20 * Epoch 8 (valid): _fps=28.4474 | base/batch_time=0.0474 | base/data_time=0.0243 | base/lr=0.0010 | base/model_time=0.0231 | base/momentum=0.9000 | loss=0.4162
+[2022-11-18 15:24:58,313] 
+9/20 * Epoch 9 (train): _fps=46.6964 | base/batch_time=0.1384 | base/data_time=0.0892 | base/lr=0.0010 | base/model_time=0.0491 | base/momentum=0.9000 | loss=0.4898
+9/20 * Epoch 9 (valid): _fps=27.9199 | base/batch_time=0.0443 | base/data_time=0.0203 | base/lr=0.0010 | base/model_time=0.0240 | base/momentum=0.9000 | loss=0.4147
+[2022-11-18 15:26:33,801] 
+10/20 * Epoch 10 (train): _fps=50.1687 | base/batch_time=0.1353 | base/data_time=0.0869 | base/lr=0.0010 | base/model_time=0.0483 | base/momentum=0.9000 | loss=0.4885
+10/20 * Epoch 10 (valid): _fps=27.3433 | base/batch_time=0.0462 | base/data_time=0.0210 | base/lr=0.0010 | base/model_time=0.0251 | base/momentum=0.9000 | loss=0.4150
+[2022-11-18 15:28:12,950] 
+11/20 * Epoch 11 (train): _fps=49.8821 | base/batch_time=0.1354 | base/data_time=0.0830 | base/lr=0.0010 | base/model_time=0.0524 | base/momentum=0.9000 | loss=0.4968
+11/20 * Epoch 11 (valid): _fps=18.2827 | base/batch_time=0.0711 | base/data_time=0.0316 | base/lr=0.0010 | base/model_time=0.0394 | base/momentum=0.9000 | loss=0.4146
+[2022-11-18 15:29:50,426] 
+12/20 * Epoch 12 (train): _fps=48.0577 | base/batch_time=0.1463 | base/data_time=0.0921 | base/lr=0.0010 | base/model_time=0.0542 | base/momentum=0.9000 | loss=0.4887
+12/20 * Epoch 12 (valid): _fps=28.3981 | base/batch_time=0.0453 | base/data_time=0.0216 | base/lr=0.0010 | base/model_time=0.0237 | base/momentum=0.9000 | loss=0.4151
+[2022-11-18 15:31:26,737] 
+13/20 * Epoch 13 (train): _fps=50.0996 | base/batch_time=0.1388 | base/data_time=0.0899 | base/lr=0.0010 | base/model_time=0.0488 | base/momentum=0.9000 | loss=0.4878
+13/20 * Epoch 13 (valid): _fps=27.2083 | base/batch_time=0.0480 | base/data_time=0.0225 | base/lr=0.0010 | base/model_time=0.0255 | base/momentum=0.9000 | loss=0.4128
+[2022-11-18 15:33:04,177] 
+14/20 * Epoch 14 (train): _fps=49.3204 | base/batch_time=0.1402 | base/data_time=0.0879 | base/lr=0.0010 | base/model_time=0.0523 | base/momentum=0.9000 | loss=0.4934
+14/20 * Epoch 14 (valid): _fps=27.1689 | base/batch_time=0.0458 | base/data_time=0.0223 | base/lr=0.0010 | base/model_time=0.0235 | base/momentum=0.9000 | loss=0.4137
+[2022-11-18 15:34:42,277] 
+15/20 * Epoch 15 (train): _fps=47.0038 | base/batch_time=0.1468 | base/data_time=0.0919 | base/lr=0.0010 | base/model_time=0.0548 | base/momentum=0.9000 | loss=0.4875
+15/20 * Epoch 15 (valid): _fps=28.4519 | base/batch_time=0.0460 | base/data_time=0.0220 | base/lr=0.0010 | base/model_time=0.0239 | base/momentum=0.9000 | loss=0.4143
+[2022-11-18 15:36:19,468] 
+16/20 * Epoch 16 (train): _fps=50.4130 | base/batch_time=0.1341 | base/data_time=0.0837 | base/lr=0.0010 | base/model_time=0.0502 | base/momentum=0.9000 | loss=0.4867
+16/20 * Epoch 16 (valid): _fps=20.3353 | base/batch_time=0.0607 | base/data_time=0.0269 | base/lr=0.0010 | base/model_time=0.0337 | base/momentum=0.9000 | loss=0.4136
