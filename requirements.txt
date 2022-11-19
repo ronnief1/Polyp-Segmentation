@@ -1,0 +1,13 @@
+catalyst==19.04rc1
+git+https://github.com/albu/albumentations@bdd6a4e
+git+https://github.com/qubvel/segmentation_models.pytorch
+os
+numpy
+cv2
+matplotlib
+torch
+albumentations
+segmentation_models_pytorch
+collections
+splitfolders
+gc
