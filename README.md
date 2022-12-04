@@ -5,8 +5,8 @@ Download the Kvasir dataset here: https://datasets.simula.no/kvasir-seg/
 ## Metric used: 
 Dice loss. Well suited for segmentation tasks, specifically on medical images, where there is a strong class imbalance between foreground and background. Considering the only two classes in this dataset are background and polyp, this metric seems like a good fit.
 
-![image](https://user-images.githubusercontent.com/23001669/205491168-15496a83-04f4-439b-a569-2f42cd007d8e.png)
-source: https://stats.stackexchange.com/questions/500628/what-happens-when-y-true-is-all-0-in-dice-loss
+![image](https://user-images.githubusercontent.com/23001669/205491760-e14ff221-f801-4f8c-9a7c-632aecf6b153.png)
+source:https://arxiv.org/pdf/2006.14822.pdf
 
 ## Metric target: .4
 
