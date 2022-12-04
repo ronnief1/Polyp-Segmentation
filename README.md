@@ -7,3 +7,9 @@ Dice loss. Well suited for segmentation tasks, specifically on medical images, w
 
 ![image](https://user-images.githubusercontent.com/23001669/205491168-15496a83-04f4-439b-a569-2f42cd007d8e.png)
 source: https://stats.stackexchange.com/questions/500628/what-happens-when-y-true-is-all-0-in-dice-loss
+
+## Metric target: .4
+
+## Metric achieved: .4094 from hyperparameter experiment trial 16
+![loss_plot](https://user-images.githubusercontent.com/23001669/205491637-f2e19c2b-44f0-4ced-89ad-2a9e4751fbbf.jpg)
+
