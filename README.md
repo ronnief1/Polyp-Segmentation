@@ -14,12 +14,12 @@ source:https://arxiv.org/pdf/2006.14822.pdf
 ![loss_plot](https://user-images.githubusercontent.com/23001669/205491637-f2e19c2b-44f0-4ced-89ad-2a9e4751fbbf.jpg)
 
 ## Time spent
-Data exploration/manipulation/discovery: 5 hours
-Familiarizing myself with model/finding implementation: 5 hours
-Creating baseline models: 10 hours
-Encoder experiments: 7 hours
-Hyperparameter experiments: 10 hours
-Loss analysis: 1 hour
+Data exploration/manipulation/discovery: 5 hours \n
+Familiarizing myself with model/finding implementation: 5 hours \n
+Creating baseline models: 10 hours \n
+Encoder experiments: 7 hours \n
+Hyperparameter experiments: 10 hours \n
+Loss analysis: 1 hour \n
 
 ## Change to original plan
 Ditched stacked encoder-decoder network which I originally planned in the first assignment and used Linknet instead. 
