@@ -3,7 +3,7 @@ git+https://github.com/albu/albumentations@bdd6a4e
 git+https://github.com/qubvel/segmentation_models.pytorch
 os
 numpy
-cv2
+opencv-python
 matplotlib
 torch
 albumentations
