@@ -13,3 +13,11 @@ source:https://arxiv.org/pdf/2006.14822.pdf
 ## Metric achieved: .4094 from hyperparameter experiment trial 16
 ![loss_plot](https://user-images.githubusercontent.com/23001669/205491637-f2e19c2b-44f0-4ced-89ad-2a9e4751fbbf.jpg)
 
+## Pipeline
+First, I trained a baseline model with UNet++ and a baseline model with Linknet. I decided to focus mainly on UNet++ after this because the validation loss was better and UNet++ was designed specifically for medical imaging. 
+
+Then, I ran an experiment to determine the best backbone encoder. The results are saved in /encoder_logs. Mobile net performed slightly better than the rest and since it was by far the smallest backbone in terms of parameters, I chose this is as the backbone moving forward. I needed to take into consideration my limited computing resources on Google Colab and opt for the model which uses the least amount of memory.
+
+Then I performed hyperparameter tuning. I created a spreadsheet of hyperparameter combos called hyperparameters_unetplusplus.csv for the segmentation model which I imported into the hyperparameter_experiments.ipynb script. I iterated over each row, passing the respective combo of hyperparameters to a newly instantiated UNet++ model, and saved the losses and some inferred test images in /hyperparameter_logs. After assessing the experiment in hp_tuning_loss_analysis.ipynb, I decided experiment 16's hyperparameters performed the best. An interesting takeaway from this experiment is that UNet++ trained with an encoder depth=5 dramatically outperformed encoder depths of 3 or 4.
+
+Next I will work on deploying this model in the form of a web app. I plan on allowing the user to choose from a list of colonoscopy images which they would like to infer.
