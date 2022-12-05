@@ -31,6 +31,6 @@ Then, I ran an experiment to determine the best backbone encoder. The results ar
 
 Then I performed hyperparameter tuning. I created a spreadsheet of hyperparameter combos called hyperparameters_unetplusplus.csv for the segmentation model which I imported into the hyperparameter_experiments.ipynb script. I iterated over each row, passing the respective combo of hyperparameters to a newly instantiated UNet++ model, and saved the losses and some inferred test images in /hyperparameter_logs. After assessing the experiment in hp_tuning_loss_analysis.ipynb, I decided experiment 16's hyperparameters performed the best. An interesting takeaway from this experiment is that UNet++ trained with an encoder depth=5 dramatically outperformed encoder depths of 3 or 4.
 
-For both experiments, the losses were analyzed along with a selection of images from the test set with high variance in polyp shape which were inferred by the model.
+For both experiments, the losses were analyzed along with a selection of images from the test set with high variance in polyp shape which were inferred by the model and analyzed visually.
 
 Next I will work on deploying this model in the form of a web app. I plan on allowing the user to choose from a list of colonoscopy images which they would like to infer. Since the model is already performing well, I want to focus more on deployment since I have limited experience in this area. However, if I finish the web app early, I would like to continue hyperparameter tuning because I think there is room for improvement.
