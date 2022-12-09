@@ -1,6 +1,7 @@
 # Polyp-Segmentation
 Download the Kvasir dataset here: https://datasets.simula.no/kvasir-seg/
 
+experiment scripts inspired from https://github.com/qubvel/segmentation_models.pytorch/blob/master/examples/cars%20segmentation%20(camvid).ipynb
 
 ## Metric used: 
 Dice loss. Well suited for segmentation tasks, specifically on medical images, where there is a strong class imbalance between foreground and background. Considering the only two classes in this dataset are background and polyp, this metric seems like a good fit.
